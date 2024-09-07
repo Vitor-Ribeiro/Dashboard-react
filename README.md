@@ -27,13 +27,13 @@ Certifique-se de ter o [Node.js](https://nodejs.org/en/) instalado na sua máqui
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/Vitor-Ribeiro/Dashboard-react.git
     ```
 
 2. Acesse a pasta do projeto:
 
     ```bash
-    cd nome-do-projeto
+    cd Dashboard-react
     ```
 
 3. Instale as dependências:
